@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton mPhotoPickerButton;
     private EditText mMessageEditText;
     private Button mSendButton;
-    private Button mSendButtonn;;
+    private Button mSendButtonn;
     private Button mSendButtonnn;
     public static final int RC_SIGN_IN = 1;
     private FirebaseAuth mFirebaseAuth;
